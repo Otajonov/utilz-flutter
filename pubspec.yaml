@@ -1,0 +1,24 @@
+name: utilz
+description: Useful utilities and shortcuts for Flutter app developers by Tijorat. It has also some UI tweaks.
+version: 0.0.2
+homepage: https://docs.tijorat.org/
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  badges: ^3.1.1
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  swipeable_page_route: ^0.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
